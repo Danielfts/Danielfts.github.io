@@ -1,3 +1,3 @@
 # Danielfts.github.io
 
-(/dist)[parcial 1]
+[/dist](parcial 1)
